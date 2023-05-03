@@ -2,7 +2,7 @@
 <p align=center>
  <b>Got locked out of my old ID somehow, so here I am<br>
 I’m interested in Programming<br>
-Currently <del>learning</del> exploring Japanese | Guitar!? | Genshin IMPACT
+Currently <del>learning</del> exploring Japanese | Guitar!? | <del>Genshin IMPACT</del>
 </b>
 </p>
 
